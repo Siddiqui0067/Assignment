@@ -1,0 +1,575 @@
+.Portfolio{
+    border: solid 1px;
+    padding: 20px 20px;
+    /* margin: 20px 20px; */
+    width: 80pc;
+    height: 1450px;
+}
+.topbox{
+    /* border: solid 1px; */
+    padding: 20px;
+    width: 77pc;
+    height: 500px;
+    /* margin-left: 25px;
+    margin-right: -40px; */
+ vertical-align: baseline;
+ display: flex;
+ justify-content: space-between;
+ background-color:rgb(66 65 73);
+color: white;
+
+
+  
+}
+
+.topbox1{
+    /* border: solid 1px; */
+    width: 50px;
+    height: 20px;
+    float: left;
+    /* word-spacing:-25px; */
+    line-height: 25px;
+    /* margin-left: -2px; */
+    position: relative;
+    left: 2pc;
+    
+   
+    
+}
+span{
+    /* border: solid 1px; */
+    width: 100px;
+    height: 20px;
+    position: relative;
+    right: 3.2pc;
+    top: 1px;
+    /* margin-inline-start: -13pc; */
+   
+  
+    
+    
+}
+
+.topbox2{
+    /* border: solid 1px; */
+    height: 20px;
+    width: 31pc;
+    word-spacing: 35px;
+    /* margin-right: 9pc;
+    margin-left: -3pc; */
+    font-size: 20px;
+    line-height: 15px;
+    text-decoration: none;
+    position: relative;
+    left: 9pc;
+    color:rgb(201, 193, 193);
+
+
+}
+.topbox3{
+    /* border: solid 1px; */
+    height: 20px;
+    width: 85px;
+    word-spacing: 12px;
+    position: relative;
+    left: 17pc;
+   
+
+}
+.topbox4{
+    /* border: solid; */
+    margin-top: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    width: 30pc;
+    height: 20pc;
+    position: absolute;
+    left: 84px;
+    z-index: 2;
+        
+    
+ 
+} 
+.heading{
+    font-size: 50px;
+}
+.h1{
+    font-weight: lighter ;
+    color: rgb(201, 193, 193);
+   
+}
+p{
+    color:rgb(201, 193, 193);
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.topbox2 a{
+    color:rgb(201, 193, 193);
+    padding: 10px;
+}
+.topbox2 a:hover{
+    color: white;
+    
+}
+.underline{
+    border: solid 1px;
+    width:10pc;
+    height:5px;
+    position: relative;
+    bottom: 43.5pc;
+    left: 55px;
+    background-color: goldenrod;
+    border-radius: 1pc;
+}
+.topbox5{
+    /* border: solid; */
+    font-size: 20px;
+    bottom: 25pc;
+    right: 65pc;
+    line-height: 20px;
+    text-align: top;
+    margin-top: 20pc;
+    position: relative;
+    right: 3pc;
+    bottom: 16pc;
+    font-family: arial;
+    color:rgb(201, 193, 193)
+}
+.radius{
+    /* border: solid 1px; */
+    width: 27pc;
+    height: 27pc;
+    background-color:#282a2c;
+    color: #2d3136;
+    border-radius: 25pc;
+    position: relative;
+    left: 25pc;
+    bottom: 30pc;
+    z-index:1;
+    
+}
+.mypic{
+    position: relative;
+    bottom: 5pc;
+    right: 2pc;
+    z-index: 2;
+    
+    
+}
+
+
+i>img{
+    /* border: solid; */
+    /* width: 2pc; */
+    height: 20px;
+    position: relative;
+    bottom: 2.4pc;
+    left: 7.5pc;
+    color: goldenrod;
+      
+}
+.topbox5 p{
+    color: goldenrod;
+}
+
+.icon{
+    /* border: solid; */
+    width: 14pc;
+    height: 3pc;
+    color: #fff;
+    display: flex;
+    /* background: goldenrod; */
+    align-content: center;
+    position: absolute;
+    left: 61.5pc;
+    top: 20pc;
+    letter-spacing: 1pc;
+    
+}
+.one,.two,.three,.four{
+    /* border: solid 1px; */
+    width:2.2pc ;
+    height:2.2pc;
+    border-radius:100pc ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(50, 49, 58);
+   
+
+}
+
+
+
+
+.centerbox{
+    /* border: solid 1px black; */
+    width: 57pc;
+    height: 3pc;
+    position: relative;
+    bottom: 4.2pc;
+    padding: 4pc;
+    margin-left: 6pc;
+    margin-right: 6pc;
+    letter-spacing: 1.pc;
+    background-color:rgb(66 65 73);
+    word-spacing: 7pc;
+    padding: 30px;
+    color: white;
+    padding: 1.5pc 4pc 1.5pc 4pc;
+    box-shadow: 0px 0px 7px grey;
+    z-index: 1;
+    
+   
+    
+    
+}
+.centerbox button{
+    font-size: 35px;
+    background-color: #2d3136;
+    color: rgb(201, 193, 193);
+    box-shadow: 1px;
+    box-shadow: 0px 0px 7px grey;
+}
+.c1,.b1{
+    float:left;
+    display: flex;
+    justify-content:baseline;
+  
+}
+.bottombox{ 
+    border: solid 1px ;
+    padding: 20px;
+    width: 76.8pc;
+    height: 860px;
+    position: relative;
+    bottom:27.51pc ;
+    background-color:#2d3136;
+}
+.bottombox1{
+    /* border:solid; */
+    width: 27pc;
+    height:25pc;
+ position:relative;
+ left:2.2pc;
+ font-size: larger;
+ 
+}
+.bottombox1>h1{
+    /* border: solid; */
+    width:fit-content;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    word-spacing: 0.4pc;
+    color: white;
+}
+.bb1{
+    /* border: solid; */
+    width: fit-content;
+    position: relative;
+   bottom: 0.5pc;
+   color:rgb(201, 193, 193);
+}
+
+h2{
+    color: goldenrod;
+}
+
+.p1{
+    /* border: solid; */
+    width: 11pc;
+    height: 5pc;
+    line-height: 8px;
+}
+.p2{
+    /* border: solid; */
+    width: 11pc;
+    height: 5pc;
+    position: relative;
+    left: 12pc;
+    bottom: 127px;
+    line-height: 8px;
+}
+.p3{
+    /* border: solid; */
+    width: 10pc;
+    height: 5.2pc;
+    position: relative;
+    bottom: 142px;
+    line-height: 8px;
+}
+.p4{
+    /* border: solid; */
+    width: 10pc;
+    height: 5.1pc;
+    position: relative;
+    left: 12pc;
+    bottom: 272px;
+    line-height: 8px;
+}
+.bottombox2{
+/* border: solid 1px; */
+width: 35pc;
+height:27.4pc;
+position: relative;
+left: 39pc;
+bottom:26.5pc;
+background-color: #2d3136;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.bottombox2a{
+    /* border: solid 1px; */
+    width: 35pc;
+    height: 8pc;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+
+.bottombox2a1{
+    /* border: solid 1px; */
+    width: 10pc;
+    height: 8pc;
+    position: relative;
+    right: 1.8pc;
+    
+}
+.bottombox2a2{
+    /* border: solid 1px; */
+    width: 9pc;
+    height: 1.5pc;
+    font-size: larger;
+    position: relative;
+    bottom: 1pc;
+    font-weight: bolder;
+    color: white;
+}
+.bottombox2a3{
+    /* border: solid 1px; */
+    width: 5pc;
+    height: 1.5pc;
+    font-size: 15px;
+    position: relative;
+    right: 10.9pc;
+    top: 0.6pc;
+    color:rgb(201, 193, 193);
+}
+.bottombox2a4{
+    /* border: solid 1px; */
+    width:1.5pc;
+    height:1pc;
+}
+.bottombox2b{
+    /* border: solid 1px; */
+    width: 35pc;
+    height: 8pc;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.bottombox2b1{
+    /* border: solid 1px; */
+    width: 10pc;
+    height: 8pc;
+    position: relative;
+    right: 1.5pc;
+}
+.bottombox2b2{
+    /* border: solid 1px; */
+    width: 11pc;
+    height: 1.5pc;
+    font-size: larger;
+    position: relative;
+    bottom: 1pc;
+    left: 0.6pc;
+    font-weight: bolder;
+    color: white;
+}
+.bottombox2b3{
+    /* border: solid 1px; */
+    width: 5pc;
+    height: 1.5pc;
+    font-size: 15px;
+    position: relative;
+    right:11.7pc;
+    top: 0.6pc;
+    color:rgb(201, 193, 193);
+}
+
+.bottombox2b4{
+    /* border: solid 1px; */
+    width:1.5pc;
+    height:2pc;
+}
+.bottombox2c{
+    /* border: solid 1px; */
+    width: 35pc;
+    height: 8pc;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.bottombox2c1{
+    /* border: solid 1px; */
+    width: 10pc;
+    height: 8pc;
+    position: relative;
+    right: 1.3pc;
+}
+.bottombox2c2{
+    /* border: solid 1px; */
+    width: 12pc;
+    height: 1.5pc;
+    font-size: larger;
+    position: relative;
+    bottom: 1pc;
+    left: 1pc;
+    font-weight: bolder;
+    color: white;
+}
+.bottombox2c3{
+    /* border: solid 1px; */
+    width: 5pc;
+    height: 1.5pc;
+    font-size: 15px;
+    position: relative;
+    right: 12.4pc;
+    top: 0.6pc;
+    color: rgb(201, 193, 193);
+}
+.bottombox2c4{
+    /* border: solid 1px; */
+    width:1.5pc;
+    height:1pc; 
+}
+.bottombox3{
+    /* border: solid 1px; */
+    width: 69pc;
+    height: 16pc;
+    display: flex;
+    align-items: baseline;
+    margin-left: 2pc;
+    position: relative;
+    bottom: 21.1pc;
+    
+    
+}
+.bottombox3a{
+    /* border: solid 1px; */
+    
+    
+}
+.bottombox3a1{
+    /* border: solid 1px; */
+    width: 3.5pc;
+    height: 3.5pc;
+    border-radius: 50pc;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    align-content: space-around;
+    justify-content: space-evenly;
+    
+}
+.bottombox3a2{
+    /* border: solid 1px; */
+    width: 12pc;
+    height: 2pc;
+    position: relative;
+    top: 5px;
+    font-size:medium;
+    font-weight: bold;
+}
+.bottombox3a3{
+    /* border: solid 1px; */
+    width: 15pc;
+    height: 5pc;
+    position: relative;
+    top: 5px;
+    font-size: small;
+}
+.bottombox3b{
+    /* border: solid 1px; */
+    position: relative;
+    left: 6pc;
+}
+.bottombox3b1{
+    /* border: solid 1px; */
+    width: 3.5pc;
+    height: 3.5pc;
+    border-radius: 50pc;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    align-content: space-around;
+    justify-content: space-evenly;
+}
+.bottombox3b2{
+    /* border: solid 1px; */
+    width: 15pc;
+    height: 2pc;
+    position: relative;
+    top: 5px;
+    font-size:medium;
+    font-weight: bold;
+}
+.bottombox3b3{
+    /* border: solid 1px; */
+    width: 15pc;
+    height: 5pc;
+    position: relative;
+    top: 5px;
+    font-size: small;
+}
+.bottombox3c{
+    /* border: solid 1px; */
+    position: relative;
+    left: 12pc;
+}
+.bottombox3c1{
+    /* border: solid 1px; */
+    width: 3.5pc;
+    height: 3.5pc;
+    border-radius: 50pc;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    align-content: space-around;
+    justify-content: space-evenly;
+    
+}
+.bottombox3c2{
+    /* border: solid 1px; */
+    width: 15pc;
+    height: 2pc;
+    position: relative;
+    top: 5px;
+    font-size:medium;
+    font-weight: bold;
+
+}
+.bottombox3c3{
+    /* border: solid 1px; */
+    width: 15pc;
+    height: 5pc;
+    position: relative;
+    top: 5px;
+    font-size: small;
+}
+
+.bottombox3a,.bottombox3b,.bottombox3c{
+    padding: 2.6pc;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #424149eb;
+    color: #fff;
+    line-height: 1.5pc;
+   
+}
+.bottombox3a1,.bottombox3b1,.bottombox3c1{
+background-color: #2d3136;
+}
